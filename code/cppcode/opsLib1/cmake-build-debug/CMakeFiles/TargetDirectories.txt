@@ -1,0 +1,3 @@
+D:/SelfDownLoad/code/cppcode/opsLib1/cmake-build-debug/CMakeFiles/opsLib1.dir
+D:/SelfDownLoad/code/cppcode/opsLib1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SelfDownLoad/code/cppcode/opsLib1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

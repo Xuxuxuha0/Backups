@@ -1,0 +1,1 @@
+add_library(COMPUTE compute.cpp compute.h)  # 名字 文件

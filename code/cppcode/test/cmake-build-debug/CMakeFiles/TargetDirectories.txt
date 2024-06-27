@@ -1,0 +1,3 @@
+D:/SelfDownLoad/code/cppcode/test/cmake-build-debug/CMakeFiles/test.dir
+D:/SelfDownLoad/code/cppcode/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SelfDownLoad/code/cppcode/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
