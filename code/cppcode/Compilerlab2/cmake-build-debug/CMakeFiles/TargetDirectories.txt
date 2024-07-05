@@ -1,3 +1,0 @@
-D:/SelfDownLoad/code/cppcode/Compilerlab2/cmake-build-debug/CMakeFiles/Compilerlab2.dir
-D:/SelfDownLoad/code/cppcode/Compilerlab2/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/SelfDownLoad/code/cppcode/Compilerlab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,0 @@
-# ninja log v5
-2	710	7324726710481869	CMakeFiles/compilerlab1.dir/main.cpp.obj	2c9e6c4db461244f
-2	647	7329709927213618	CMakeFiles/compilerlab1.dir/lab1-oldversion.cpp.obj	6c44d99033c4f678
-647	798	7329709928689988	compilerlab1.exe	c707f627b16e1078
-0	116	7353999684725088	build.ninja	12ebd08d7f6212b7
-2	48	7329704539320359	CMakeFiles/compilerlab1.dir/lab1.cpp.obj	ab8e212690cf37e4
-9	66	7328925844621588	CMakeFiles/compilerlab1.dir/lab1-gpt.cpp.obj	ce51966cd911017c
-2	71	7329665425946863	CMakeFiles/compilerlab1.dir/utils.cpp.obj	4a2a100251cefd08
